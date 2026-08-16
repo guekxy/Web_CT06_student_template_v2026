@@ -13,4 +13,8 @@ function setup() {
 function draw() {
     image(pico, xpos,0, 110,133);
 
+    if(keyIsDown(RIGHT_ARROW)) {
+        xpos = xpos + 2;
+    }
+
 }
