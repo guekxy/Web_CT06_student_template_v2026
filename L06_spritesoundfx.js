@@ -33,6 +33,6 @@ function keyPressed() {
         bgm.play();
     }
 if (keycode === 32) {
-    sfx.play()
+    sfx.play();
 }
 }
