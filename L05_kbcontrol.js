@@ -1,5 +1,5 @@
 function setup(){
-canvas(200,600)
+Canvas(200,600)
 background ('sky blue')
 let xpos = 0;
 let ypos = 0;
