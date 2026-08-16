@@ -11,7 +11,7 @@ function draw(){
     fill (colour);
     circle(xpos,ypos,size);
 
-}
+
 if (keyIsDown(RIGHT_ARROW)) {
     xpos = xpos +2;
 
@@ -28,4 +28,5 @@ if (keyIsDown(UP_ARROW)) {
 if (keyIsDown(DOWN_ARROW)) {
     ypos = ypos + 2;
 
+}
 }
