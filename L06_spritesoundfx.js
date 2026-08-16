@@ -2,7 +2,7 @@ let bgm;
 let pico;
 
 function preload(){
-    pico = loadImage("")
+    pico = loadImage("assets")
 }
 function setup() {
     createCanvas(350,500);
