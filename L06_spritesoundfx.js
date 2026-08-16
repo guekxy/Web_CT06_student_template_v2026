@@ -10,6 +10,6 @@ function setup() {
 }
 
 function draw() {
-    image 
+    image(pico, 0)
 
 }
