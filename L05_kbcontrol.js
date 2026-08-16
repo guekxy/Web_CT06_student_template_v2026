@@ -1,6 +1,6 @@
 function setup(){
 canvas = (200,600)
-fill('grey')
+background 
 let xpos = 0;
 let ypos = 0;
 
