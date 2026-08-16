@@ -11,6 +11,7 @@ function setup() {
 }
 
 function draw() {
+    background('lightblue')
     image(pico, xpos,0, 110,133);
 
     if(keyIsDown(RIGHT_ARROW)) {
