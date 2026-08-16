@@ -11,6 +11,6 @@ function setup() {
 }
 
 function draw() {
-    image(pico, 0,0, 110,133);
+    image(pico, xpos,0, 110,133);
 
 }
