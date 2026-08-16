@@ -1,5 +1,6 @@
 let bgm;
 let pico;
+let xpos,ypos
 
 function preload(){
     pico = loadImage("assets/pico-a.png")
