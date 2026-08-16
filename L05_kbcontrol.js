@@ -8,7 +8,7 @@ xpos = width/2
 ypos = height/2
 
 
-let colour = ('blue')
+let colour = (blue);
 }
 
 function draw(){
