@@ -1,5 +1,6 @@
-function set up(){
+function setup(){
     
+
 }
 
 let xpos = 0;
