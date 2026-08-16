@@ -29,6 +29,6 @@ function keyPressed() {
         bgm.stop();
     }
     if (key === 'c') {
-        bgm.play()
+        bgm.play();
     }
 }
