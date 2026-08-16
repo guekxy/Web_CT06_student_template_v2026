@@ -6,7 +6,8 @@ function preload(){
 }
 function setup() {
     createCanvas(350,500);
-    background('lightblue')
+    background('lightblue');
+    
 }
 
 function draw() {
