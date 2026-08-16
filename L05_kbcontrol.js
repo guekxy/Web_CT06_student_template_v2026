@@ -1,5 +1,6 @@
 function setup(){
-canvas = ()
+canvas = (200,600)
+fill()
 let xpos = 0;
 let ypos = 0;
 
