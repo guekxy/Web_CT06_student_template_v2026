@@ -13,7 +13,7 @@ function setup() {
     createCanvas(350,500);
     background('lightblue');
     xpos = 0;
-    '
+    bgm.loop
 } 
 
 function draw() {
