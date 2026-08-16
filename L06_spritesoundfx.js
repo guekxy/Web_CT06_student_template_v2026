@@ -32,4 +32,7 @@ function keyPressed() {
     if (key === 'c') {
         bgm.play();
     }
+if (keycode === 32) {
+    
+}
 }
