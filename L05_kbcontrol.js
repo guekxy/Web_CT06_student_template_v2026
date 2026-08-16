@@ -1,6 +1,6 @@
 function setup(){
-canvas = (200,600)
-background 
+canvas (200,600)
+background ('skuy')
 let xpos = 0;
 let ypos = 0;
 
