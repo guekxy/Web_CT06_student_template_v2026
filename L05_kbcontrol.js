@@ -1,13 +1,13 @@
 function setup(){
-    
-
-}
-
 let xpos = 0;
 let ypos = 0;
 let size = 60
 xpos = width/2
 ypos = height/2
+
+}
+
+
 
 function draw(){
     background('sky blue');
