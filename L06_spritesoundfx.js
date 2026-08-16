@@ -6,7 +6,7 @@ let bgm,sfx;
 function preload(){
     pico = loadImage("assets/pico-a.png")
 
-    bgm = loadSound("")
+    bgm = loadSound("assets/b")
 }
 function setup() {
     createCanvas(350,500);
