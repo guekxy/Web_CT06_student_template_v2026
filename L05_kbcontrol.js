@@ -9,7 +9,7 @@ ypos = height/2
 
 
 let colour = (blue);
-
+}
 
 function draw(){
     background('sky blue');
@@ -33,6 +33,5 @@ if (keyIsDown(UP_ARROW)) {
 if (keyIsDown(DOWN_ARROW)) {
     ypos = ypos + 2;
 
-}
 }
 }
