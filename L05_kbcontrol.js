@@ -4,7 +4,7 @@ let ypos = 0;
 
 xpos = width/2
 ypos = height/2
-}
+
 
 let colour = ('blue')
 
@@ -31,5 +31,6 @@ if (keyIsDown(UP_ARROW)) {
 if (keyIsDown(DOWN_ARROW)) {
     ypos = ypos + 2;
 
+}
 }
 }
