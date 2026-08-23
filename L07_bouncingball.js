@@ -5,10 +5,10 @@ let ballSpeedX = 2;
 let ballSpeedY = 2;
 
 function setup() {
-    
+
 }
 
-
+function draw() 
 
 
 
