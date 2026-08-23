@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-    rect(600,400)
+    circle
 
 }
 
