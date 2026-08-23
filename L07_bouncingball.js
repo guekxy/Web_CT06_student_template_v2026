@@ -39,7 +39,9 @@ function draw() {
         fill (random(0,255),0,random(0,255),random(10,55));
     }
     function keyPressed() {
-        
+        if (keyCodde === UP_ARROW) {
+            ballSpeedX = ballSp
+        }
 
 }
 
