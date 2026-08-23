@@ -5,14 +5,14 @@ let ballSpeedX = 2;
 let ballSpeedY = 2;
 
 function setup() {
-    createCanvas(600,600);
+    createCanvas(600,500);
     background('lightgray');
 
 
 }
 
 function draw() {
-rect(600,400)
+    rect(600,400)
 
 }
 
