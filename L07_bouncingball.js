@@ -19,7 +19,7 @@ function draw() {
     circle(ballX,ballY,ballSize);
 
     ballX = ballX + ballSpeedX;
-    ballY = ballY + ballSpeed
+    ballY = ballY + ballSpeedY;
 
 }
 
