@@ -28,7 +28,7 @@ function draw() {
     }
     if (ballX < 0) {
         ballSpeedX = -1 * ballSpeedX;
-        fill (random(0,255),0,0);
+        fill (random(0,255)),(random(0,255)),(random(0,255));
     }
     if (ballY > height ){
         ballSpeedY = -1 * ballSpeedY;
