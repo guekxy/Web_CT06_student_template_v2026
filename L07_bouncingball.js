@@ -6,7 +6,8 @@ let ballSpeedY = 2;
 
 function setup() {
     createCanvas(600,500);
-    background('lightgray');
+    noStroke();
+    
 
 
 }
