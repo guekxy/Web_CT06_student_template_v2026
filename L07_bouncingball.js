@@ -24,7 +24,8 @@ function draw(){
 
 function keyPressed(){
     if (keyCode === 32);
-    p
+    picowidth = 55;
+    
 
 
 }
