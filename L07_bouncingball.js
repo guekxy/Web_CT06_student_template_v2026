@@ -10,7 +10,7 @@ function setup() {
     noStroke();
     ballX = width/2;
     ballY = height/2;
-    fill (random(0,255)),(random(0,255)),(random(0,255));
+    fill;
 
 
 }
