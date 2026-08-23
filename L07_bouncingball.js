@@ -14,7 +14,8 @@ function draw(){
     background('lightblue');
     image(pico, xpos,0, 110,133);
 
-    if (keyIsDown(R)){
+    if (keyIsDown(RIGHT_ARROW)){
+        
 
 
     }
