@@ -24,11 +24,11 @@ function draw() {
     ballY = ballY + ballSpeedY;
     if (ballX > width) {
         ballSpeedX = -1 * ballSpeedX;
-        fill (random(0,255)),(random(0,255)),(random(10,55));
+        fill (random(0,255)),0,(random(0,255)),(random(10,55));
     }
     if (ballX < 0) {
         ballSpeedX = -1 * ballSpeedX;
-        fill (random(0,255)),(random(0,255)),(random(10,55));
+        fill (random(0,255)),0,(random(0,255)),(random(10,55));
     }
     if (ballY > height ){
         ballSpeedY = -1 * ballSpeedY;
