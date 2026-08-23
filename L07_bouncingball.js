@@ -45,7 +45,7 @@ function draw() {
         }
         else if (keyCode === DOWN_ARROW) {
             ballSpeedX = ballSpeedX * 0.67;
-            ballSpeedY = ballSpeedYm
+            ballSpeedY = ballSpeedY * 0.67;
         }
 
 }
