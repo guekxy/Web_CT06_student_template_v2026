@@ -26,6 +26,9 @@ function draw() {
     if (ballX < 0) {
         ballspeedX = -1 * ballspeedX;
     }
+    if (ballY > height ){
+        
+    }
 
 }
 
