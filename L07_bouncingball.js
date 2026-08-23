@@ -1,34 +1,34 @@
-let pico;
-let picowidth;
-function setup(){
-    createCanvas(400,600);
-    background('grey');
-}
+// let pico;
+// let picowidth;
+// function setup(){
+//     createCanvas(400,600);
+//     background('grey');
+// }
 
-function preload(){
-    pico = loadImage("assets/pico-a.png")
-
-
-}
-function draw(){
-    background('lightblue');
-    image(pico, xpos,0, 110,133);
-
-    if (keyIsDown(RIGHT_ARROW)){
-        picowidth = 110;
-        
+// function preload(){
+//     pico = loadImage("assets/pico-a.png")
 
 
+// }
+// function draw(){
+//     background('lightblue');
+//     image(pico, xpos,0, 110,133);
 
-    }
-
-}
-
-function keyPressed(){
-    if (keyCode === 32){
-    picowidth = 55;
-    }
+//     if (keyIsDown(RIGHT_ARROW)){
+//         picowidth = 110;
 
 
-}
+
+
+//     }
+
+// }
+
+// function keyPressed(){
+//     if (keyCode === 32){
+//     picowidth = 55;
+//     }
+
+
+// }
 
