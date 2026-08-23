@@ -3,7 +3,11 @@ function setup(){
     background('grey');
 }
 
+function preload(){
+    pico = loadImage("assets/pico-a.png")
 
+
+}
 function draw(){
 
 }
