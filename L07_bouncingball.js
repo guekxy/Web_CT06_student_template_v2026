@@ -40,7 +40,7 @@ function draw() {
     }
     function keyPressed() {
         if (keyCodde === UP_ARROW) {
-            ballSpeedX = ballSp
+            ballSpeedX = ballSpeedX * 1.2;
         }
 
 }
