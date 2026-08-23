@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-    rec
+    rec(600,400)
 
 }
 
