@@ -24,7 +24,7 @@ function draw() {
         ballSpeedX = -1 * ballspeedX;
     }
     if (ballX < 0) {
-        ballspeedX = -1 * balls
+        ballspeedX = -1 * ballspeedX;
     }
 
 }
