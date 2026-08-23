@@ -18,6 +18,8 @@ function draw() {
     fill(0);
     circle(ballX,ballY,ballSize);
 
+    ballX = ballX
+
 }
 
 
