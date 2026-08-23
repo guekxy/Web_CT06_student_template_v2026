@@ -23,6 +23,9 @@ function draw() {
     if (ballX > width) {
         ballSpeedX = -1 * ballspeedX;
     }
+    if (ballX < 0) {
+        bal
+    }
 
 }
 
