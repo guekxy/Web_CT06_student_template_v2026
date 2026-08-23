@@ -10,7 +10,7 @@ function setup() {
     noStroke();
     ballX = width/2;
     ballY = height/2;
-    fill(0);
+    
 
 
 }
