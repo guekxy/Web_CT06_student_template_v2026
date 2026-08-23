@@ -39,9 +39,12 @@ function draw() {
         fill (random(0,255),0,random(0,255),random(10,55));
     }
     function keyPressed() {
-        if (keyCodde === UP_ARROW) {
+        if (keyCode === UP_ARROW) {
             ballSpeedX = ballSpeedX * 1.2;
-            ballSpeedY = ballSpeedY * 
+            ballSpeedY = ballSpeedY * 1.2;
+        }
+        else if (keyCode === DOWN_ARROW) {
+            
         }
 
 }
