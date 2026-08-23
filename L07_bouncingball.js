@@ -10,7 +10,8 @@ function preload(){
 
 }
 function draw(){
-    
+    background('lightblue');
+    image(pico, xpos,0, 110,133);
 
 }
 
