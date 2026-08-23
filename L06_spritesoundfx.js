@@ -32,7 +32,7 @@ function keyPressed() {
     if (key === 'c') {
         bgm.play();
     }
-if (keycode === 32) {
+if (keyCode === 32) {
     sfx.play();
 }
 }
