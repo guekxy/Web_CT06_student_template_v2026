@@ -1,4 +1,5 @@
 let ballSize = 40;
+let ballX = 0;
 
 
 
