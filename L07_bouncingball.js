@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-    circle(ballX,ballY,ballSize)
+    circle(ballX,ballY,ballSize);
 
 }
 
