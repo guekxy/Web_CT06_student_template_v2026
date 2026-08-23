@@ -36,7 +36,7 @@ function draw() {
     }
     if (ballY < 0) {
         ballSpeedY = -1 * ballSpeedY;
-        fill (random(0,255)),(random(0,255)),(random(0,255));
+        fill (random(0,255)),(random(0,255)),(random(10,55));
     }
 
 
