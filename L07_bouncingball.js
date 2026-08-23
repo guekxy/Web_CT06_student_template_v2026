@@ -6,11 +6,13 @@ let ballSpeedY = 2;
 
 function setup() {
     createCanvas(600,600);
-    background('lightgray')
+    background('lightgray');
+
 
 }
 
 function draw() {
+    rec
 
 }
 
