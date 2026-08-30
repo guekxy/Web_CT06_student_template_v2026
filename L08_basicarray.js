@@ -1,4 +1,5 @@
 let ypos = 0;
+let 
 
 function setup() {
     createCanvas(800,600);
