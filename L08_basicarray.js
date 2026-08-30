@@ -1,10 +1,11 @@
 let ypos = 0;
 let lineY = 0;
-let
+let storyText = [];
 
 function setup() {
     createCanvas(800,600);
     ypos = height;
+    storyText
 }
 
 function draw() {
