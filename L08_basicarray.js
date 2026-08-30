@@ -9,7 +9,7 @@ function draw() {
     background(220);
     textSize(64);
     text("hello everybody", 100, ypos);
-    text("second line", 100, height/2 + 18);
+    text("second line", 100, ypos + 18);
     ypos = -0.67
     text("today")
 
