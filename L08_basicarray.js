@@ -22,7 +22,7 @@ function draw() {
         text(storyText[count],100,ypos + lineY);
         lineY = lineY + 20;
 
-}
+    }
     ypos = ypos -0.67;
    
 
