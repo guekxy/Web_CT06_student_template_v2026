@@ -17,7 +17,9 @@ function draw() {
     // text("hello everybody", 100, ypos);
     // text("second line", 100, ypos + 18);
     // text("ethan wong joined our sunday class!",100,ypos + 36);
-    for (let count=0; count < storyText, length; )
+for (let count=0; count < storyText, length; count++ ) {
+    
+}
     ypos = ypos -0.67
    
 
