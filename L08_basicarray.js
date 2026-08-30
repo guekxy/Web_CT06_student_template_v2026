@@ -5,7 +5,7 @@ let storyText = [];
 function setup() {
     createCanvas(800,600);
     ypos = height;
-    storyText[0]
+    storyText[0] = "Long long t"
 }
 
 function draw() {
