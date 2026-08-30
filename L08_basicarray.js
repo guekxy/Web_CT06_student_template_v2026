@@ -5,7 +5,7 @@ function setup() {
 function draw() {
     background(220);
     textSize(64);
-    text("hello everybody", 200, height/2);
-    text("second line", 200, height/2 + 18)
+    text("hello everybody", 100, height/2);
+    text("second line", 100, height/2 + 18);
 
 }
