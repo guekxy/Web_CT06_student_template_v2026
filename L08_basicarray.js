@@ -6,6 +6,6 @@ function draw() {
     background(220);
     textSize(64);
     text("hello everybody", 200, height/2);
-    text("second line", 200, )
+    text("second line", 200, height/2 + 18)
 
 }
