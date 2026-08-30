@@ -20,7 +20,8 @@ function draw() {
   triangle(180, 200,  280, 200, 200, 0);
 
   // Challenge 2: A face using circle() function
-
+  //   x  y   w  h
+  rect(50,50,50, 50);
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
