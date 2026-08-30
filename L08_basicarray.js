@@ -6,7 +6,8 @@ function setup() {
     createCanvas(800,600);
     ypos = height;
     storyText[0] = "Long long long long time ago..."
-    storyText[1] = ""
+    storyText[1] = "my grandma told me a story";
+    storyText[2] = ""
 }
 
 function draw() {
