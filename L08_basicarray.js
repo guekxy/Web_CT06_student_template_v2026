@@ -7,10 +7,10 @@ function setup() {
 
 function draw() {
     background(220);
-    textSize(64);
+    textSize(18);
     text("hello everybody", 100, ypos);
     text("second line", 100, ypos + 18);
-    text("ethan wong joined our sunday class!",100,ypos + 36)
+    text("ethan wong joined our sunday class!",100,ypos + 36);
     ypos = ypos -0.67
    
 
