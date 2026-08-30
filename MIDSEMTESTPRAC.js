@@ -1,5 +1,6 @@
 let xpos;
-let ypos
+let ypos;
+let colorMe;
 
 
 function setup(){
