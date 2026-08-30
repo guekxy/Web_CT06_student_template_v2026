@@ -19,10 +19,10 @@ function draw() {
     // text("ethan wong joined our sunday class!",100,ypos + 36);
     for (let count=0; count < storyText, length; count++ ) {
         text(storyText[count],100,ypos + lineY);
-        lineY = lineY + 20
+        lineY = lineY + 20;
 
 }
-    ypos = ypos -0.67
+    ypos = ypos -0.67;
    
 
 }
