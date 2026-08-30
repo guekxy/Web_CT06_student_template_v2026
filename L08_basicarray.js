@@ -10,6 +10,6 @@ function draw() {
     textSize(64);
     text("hello everybody", 100, height/2);
     text("second line", 100, height/2 + 18);
-    ypos = -
+    ypos = -0.67
 
 }
