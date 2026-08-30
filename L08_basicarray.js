@@ -8,7 +8,7 @@ function setup() {
     storyText[0] = "Long long long long time ago..."
     storyText[1] = "my grandma told me a story";
     storyText[2] = "and the end";
-    print(storyText)
+    print(storyText);
 }
 
 function draw() {
