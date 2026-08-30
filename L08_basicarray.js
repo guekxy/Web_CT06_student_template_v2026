@@ -1,5 +1,8 @@
+let ypos = 0;
+
 function setup() {
-    createCanvas(800,600)
+    createCanvas(800,600);
+    ypos = height/2;
 }
 
 function draw() {
@@ -7,5 +10,6 @@ function draw() {
     textSize(64);
     text("hello everybody", 100, height/2);
     text("second line", 100, height/2 + 18);
+    ypos = -
 
 }
