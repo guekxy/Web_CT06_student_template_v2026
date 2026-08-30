@@ -5,7 +5,7 @@ let storyText = [];
 function setup() {
     createCanvas(800,600);
     ypos = height;
-    storyText
+    storyText[0]
 }
 
 function draw() {
