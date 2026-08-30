@@ -18,7 +18,7 @@ function draw() {
     // text("second line", 100, ypos + 18);
     // text("ethan wong joined our sunday class!",100,ypos + 36);
     lineY = 0;
-    for (let count=0; count < storyText, length; count++ ) {
+    for (let count=0; count < storyText.length; count++ ) {
         text(storyText[count],100,ypos + lineY);
         lineY = lineY + 20;
 
