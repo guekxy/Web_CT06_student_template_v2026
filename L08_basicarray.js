@@ -11,6 +11,6 @@ function draw() {
     text("hello everybody", 100, ypos);
     text("second line", 100, ypos + 18);
     ypos = -0.67
-    text("today")
+   
 
 }
