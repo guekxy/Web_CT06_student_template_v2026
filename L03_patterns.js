@@ -6,7 +6,7 @@ function setup() {
   
 function draw() {
   // Recap 1: Repeating Circles
-  fill("lime");
+  color = 0;
 
   let circleDiameter = 50;
   let circleY = 50;
