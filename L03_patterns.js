@@ -11,7 +11,7 @@ function draw() {
   let circleDiameter = 50;
   let circleY = 50;
   let circleX = 50;
-  colorMe = 0;
+  let colorMe = 0;
 
   for (let num=1; num<=5; num++) {
     fill(colorMe)
