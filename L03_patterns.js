@@ -6,18 +6,20 @@ function setup() {
   
 function draw() {
   // Recap 1: Repeating Circles
-  colorMe = 0;
+  
 
   let circleDiameter = 50;
   let circleY = 50;
   let circleX = 50;
+  colorMe = 0;
 
   for (let num=1; num<=5; num++) {
+    fill(colorMe)
     circle(50*num,circleY,circleDiameter);
     circleY = circleY + 50;
     circleX = circleX + 50;
     colorMe = colorMe + 55;
-    fill(colorMe)
+    
   
 
 
