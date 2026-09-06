@@ -17,6 +17,7 @@ function draw() {
     circleY = circleY + 50;
     circleX = circleX + 50;
     colorMe = colorMe + 55;
+    fill(colorMe)
   
 
 
