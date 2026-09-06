@@ -18,7 +18,7 @@ function draw() {
     circle(50*num,circleY,circleDiameter);
     circleY = circleY + 50;
     circleX = circleX + 50;
-    colorMe = colorMe * 50;
+    colorMe = colorMe + 67;
     
   
 
